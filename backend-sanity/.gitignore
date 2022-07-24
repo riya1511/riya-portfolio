@@ -1,0 +1,14 @@
+node_modules
+
+plugins
+
+statis
+
+config
+
+/coverage
+
+/logs
+*.log
+
+/dist
